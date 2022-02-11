@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.9
+idna==3.3
+paho-mqtt==1.6.1
+pycryptodome==3.12.0
+requests==2.26.0
+tuya-connector-python==0.1.2
+tuya-iot-py-sdk==0.6.6
+urllib3==1.26.7
+websocket-client==1.2.3

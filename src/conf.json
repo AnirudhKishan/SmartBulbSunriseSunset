@@ -1,0 +1,15 @@
+{
+	"access_id": "",
+	"access_key": "",
+	
+	"device_id": "",
+	"min_brightness": 10,
+	"max_brightness": 1000,
+	"min_temp": 10,
+	"max_temp": 1000,
+	
+	"duration": 1800,
+	"delay": 60,
+	
+	"debug": true
+}
