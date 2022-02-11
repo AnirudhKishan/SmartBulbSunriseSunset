@@ -30,6 +30,8 @@ Some of the configuration entries are:
 
 I use a CRON job to schedule the sunrise and sunset.
 
+* Fill in the configuration file
+* pip install -r requirements.txt _(Better to do this in a Python virtual environment though)_
 * python main.py --action sunrise / sunset
 
 
