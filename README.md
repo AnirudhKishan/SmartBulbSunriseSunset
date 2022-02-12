@@ -22,8 +22,8 @@ Some of the configuration entries are:
 ## Arguments
 
 * -a / --action
-    - _sunrise_: (Default) The brightness it set to minimum, and incrementally increased to maximum.
-    - _sunset_: The brightness is incrementally reduced to minimum from the current brightness. If the bulb is not on, the script exits early and does nothing.
+    - _sunrise_: (Default) The bulb is turned on. The mode is set to _white_. The temperature to _warm_. The brightness it set to minimum, and incrementally increased to maximum.
+    - _sunset_: If the bulb is not on, the script exits early and does nothing. Else: The mode is set to _color_. The colour to _yellow_. The brightness it set to maximum, and incrementally reduced to minimum.
 
 
 ## How to run
